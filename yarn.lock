@@ -3842,15 +3842,15 @@ jsonfile@^6.0.1:
   version "0.0.0"
   resolved "file:"
   dependencies:
-    keycloakify "^11.3.6"
+    keycloakify "^11.3.16"
     keycloakify-starter "file:"
     react "^18.2.0"
     react-dom "^18.2.0"
 
-keycloakify@^11.3.6:
-  version "11.3.6"
-  resolved "https://registry.npmjs.org/keycloakify/-/keycloakify-11.3.6.tgz"
-  integrity sha512-F+HVEjsszWTOeEuieEJGZM8/g4Z5ILwHuvtlqY+BZvxUYBYLJfbUUp3rk/pM89vl14cDQkyc+L86G4tGIPQmLg==
+keycloakify@^11.3.16:
+  version "11.3.16"
+  resolved "https://registry.npmjs.org/keycloakify/-/keycloakify-11.3.16.tgz"
+  integrity sha512-PsEF7usNemxDhL1KVL1ynbDdC6WTslVIhcZT/7TebYuRjM1+F9S9EktleclX5wkPbCdGFPl+sgQ/pK6YsT6DZQ==
   dependencies:
     tsafe "^1.7.5"
 
